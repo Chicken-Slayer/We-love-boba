@@ -2,9 +2,22 @@ body {
     color: #c17e2c;
     font-family: "Fraunces", monospace;
     background-color: #eff4c3;
+    text-align: center;
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
+}
+
+footer {
+  display: flex;
+  background-color: #eff4c3;
+}
+
+footer div{
+  background-color: #dce39e;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
 }

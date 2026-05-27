@@ -12,12 +12,12 @@ img {
 
 footer {
   display: flex;
-  background-color: #eff4c3;
+  background-color: #dce39e;
   align-items: center;
 }
 
 footer div{
-  background-color: #dce39e;
+  background-color: #ae90b8;
   margin: 10px;
   padding: 20px;
   font-size: 30px;

@@ -13,6 +13,7 @@ img {
 footer {
   display: flex;
   background-color: #eff4c3;
+  align-items: center;
 }
 
 footer div{
